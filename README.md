@@ -1,13 +1,17 @@
-# Project: AI Scholarship Eligibility Assistant
+# Project: AI Scholarship Eligibility Test
 
 ## What I did:
-Built an AI-powered assistant that checks scholarship eligibility in real-time. Used Google Gemini AI to analyze requirements and compare with my profile. Tested with Saudi Government Scholarship (70% requirement vs my 71% marks). The AI confirmed my eligibility within seconds. Took a screenshot as proof of working result.
-Link of Chat:https://shorturl.at/WRhu3
-## Tools Used:
-Google AI Studio | Gemini AI | Prompt Engineering | No-code AI Development
+Used Google AI Studio to test my eligibility for Saudi Government Scholarship. 
+Wrote a prompt with my profile (71% marks, 19 years, Pakistan, 6 Excel projects, Gemini certified). 
+AI confirmed I am eligible.
 
-## Skills Demonstrated:
-- AI Prompt Engineering
-- Real-world AI Application
-- Problem Solving with AI Tools
-- Scholarship Research & Analysis
+## What I learned:
+- How to write effective prompts for AI
+- How to use Google Gemini for real tasks
+- How to analyze scholarship requirements
+
+## Next Step:
+Will build a full AI assistant that works for ANY scholarship.
+
+## Proof:
+https://shorturl.at/GXBdf
